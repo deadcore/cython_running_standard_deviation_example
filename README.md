@@ -1,4 +1,4 @@
-## Cython Example
+## Cython Running Standard Deviation Example
 Some Cython example code for a presentation
 ## 📝 Table of Contents
 - [About](#about)
